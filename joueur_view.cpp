@@ -63,7 +63,7 @@ void Joueur_view::Veliminate(){
    //QIcon *fin = new QIcon("illiminer.jpg");
    // end->setPixmap(QPixmap("elliminer.jpg"));
     end->setText("Joueur elimine.");
-  //  Layout->addWidget(end,3,0,0);
+    Layout->addWidget(end,3,0,0);
   //  end->setFixedSize(100,80);
    // end->setIconSize(QSize(300/2,400/2));
 

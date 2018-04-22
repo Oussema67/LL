@@ -30,8 +30,8 @@ Carte_view:: Carte_view(QWidget *parent, int v):
                         break;
     }
 
-    this->setFixedSize(300/2,400/2);
-    this->setIconSize(QSize(300/2,400/2));
+    this->setFixedSize(150/2,200/2);
+    this->setIconSize(QSize(150/2,200/2));
 
     this->setIcon(*image);
 
